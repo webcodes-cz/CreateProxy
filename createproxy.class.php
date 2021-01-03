@@ -1,5 +1,4 @@
 <?php
-
 /*
 Name: CreateProxy Simple PHP API Class
 Documentation and methods can be found here: https://createproxy.com/api
