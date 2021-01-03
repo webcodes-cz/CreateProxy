@@ -5,7 +5,7 @@ Documentation and methods ca be found here: https://createproxy.com/api
 Version: 1.0
 */
 
-require_once "createproxy.class2.php";
+require_once "createproxy.class.php";
 $client = new CreateProxyClient('YOUR_API_KEY');
 
 /***************************************************************************************************************************/
